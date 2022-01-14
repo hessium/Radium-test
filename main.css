@@ -1,0 +1,17 @@
+.main{
+   
+   text-align: center;
+}
+
+.text{
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.text:hover{
+    color: #9579d1;
+    font-size: 36px;
+    cursor: pointer;
+    font-family: 'Neonderthaw', cursive;
+}
